@@ -1,0 +1,16 @@
+{
+  "name": "ideia-genial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "dev": "next dev"
+  },
+  "repository": "https://github.com/FelipeSSac/ideia-genial.git",
+  "author": "FelipeSSac <felipe_adoubs@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
